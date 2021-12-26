@@ -1,2 +1,7 @@
 # p5-react
-Created with CodeSandbox
+this project aimed to 
+   visulaize
+   calculeta
+   and create art
+
+using js, in react way
